@@ -4,7 +4,7 @@ metadata:
   name: frontend
   labels:
     app: todonodejs
-    name: frontend
+    name: frontend10001
   namespace: mysql
 spec:
   replicas: 1
